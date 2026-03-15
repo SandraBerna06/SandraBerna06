@@ -22,8 +22,8 @@ Soy una apasionada Desarrolladora Web enfocada en crear soluciones eficientes y 
 ---
 
 ## 📊 Estadísticas
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=SandraBerna06&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=SandraBerna06&layout=compact&theme=radical)
 
 ---
 
