@@ -5,7 +5,7 @@ Soy una apasionada Desarrolladora Web enfocada en crear soluciones eficientes y 
 
 - 🔭 Actualmente estudio en Universidad Católica San Antonio de Murcia
 - 🌱 Estoy profundizando en inteligencia artificial y desarrollo frontend y backend
-- ⚡ Dato curioso: Me encanta aprender y me adapto a todo tipo de trabajos
+- ⚡ Dato curioso: Todavía no he decidido si prefiero el modo oscuro o el modo claro... (es mentira, el modo claro no existe).
 
 ---
 
